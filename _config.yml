@@ -21,6 +21,11 @@ author: Vogy Bear
 
 navbar-links:
   About Me: "aboutme"
+  Games:
+    - Dreadwinter: "dreadwinter"
+  Blog: "/blog"
+  FAQ: "faq"
+  Press Kit: "https://impress.games/press-kit/vogy-bear/dreadwinter"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -91,6 +96,8 @@ rss-description: This website is a virtual proof that I'm awesome
 ###########################
 # --- General options --- #
 ###########################
+
+paginate_path: "/blog/index.html"
 
 # Select which social network share links to show in posts
 share-links-active:
