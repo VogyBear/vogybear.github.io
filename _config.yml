@@ -26,10 +26,7 @@ navbar-links:
   Blog: "/blog"
   FAQ: "faq"
   Press Kit: "https://impress.games/press-kit/vogy-bear/dreadwinter"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  
 
 ################
 # --- Logo --- #
