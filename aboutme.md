@@ -16,7 +16,7 @@ I'm currently a solo game developer, and the game I'm working on right now is Dr
 </p>
 
 <div class="center">
-<h3>My Story</h3>
+<center><h3>My Story</h3></center>
 
 Where do I begin? I'm not really sure what you'd want to know, so I'll just say some stuff, and maybe you'll
 find it interesting
