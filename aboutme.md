@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Vogy Bear
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+![It's me!](/assets/img/Vogy-Bear-v2.png)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Hello, I'm Alex, and I also go by Vogy Bear (it's pronounced like Yogi Bear)
 
-What else do you need?s
+I'm currently a solo game developer, and the game I'm working on right now is Dreadwinter.
+
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+
