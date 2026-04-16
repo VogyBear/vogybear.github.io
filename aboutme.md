@@ -5,7 +5,7 @@ title: About Vogy Bear
 
 
 <p align="center">
-  <img src="/assets/img/Vogy-Bear-v2.png">
+  <img src="/assets/img/Vogy-Bear-Fill.png">
 </p>
 
 
