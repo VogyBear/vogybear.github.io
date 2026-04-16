@@ -10,7 +10,7 @@ subtitle: Not really a bear
 </p>
 
 
-Hello, I'm Alex, and I also go by Vogy Bear (it's pronounced like Yogi Bear)
+Hello, I'm Alex, and I also go by Vogy Bear! (it's pronounced like Yogi Bear)
 
 I'm currently a solo game developer, and the game I'm working on right now is Dreadwinter.
 
