@@ -10,8 +10,8 @@ Dreadwinter will release in 2026! I'm not sure exactly when yet.
 
 <ins>Platforms?</ins>
 
-Dreadwinter is currently being developed for Steam (Windows/linux/Steam Deck)
-It may be possible to port it to consoles in the future, but it's not in the works for now
+Dreadwinter is currently being developed for Steam (Windows/Linux/Steam Deck)
+It may be possible to port it to consoles in the future, but it's not in the works for now.
 
 <ins>Multiplayer?</ins>
 
