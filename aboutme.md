@@ -3,7 +3,11 @@ layout: page
 title: About Vogy Bear
 ---
 
-![It's me!](/assets/img/Vogy-Bear-v2.png)
+
+<p align="center">
+  <img src="/assets/img/Vogy-Bear-v2.png">
+</p>
+
 
 Hello, I'm Alex, and I also go by Vogy Bear (it's pronounced like Yogi Bear)
 
