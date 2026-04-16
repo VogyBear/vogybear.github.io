@@ -19,7 +19,7 @@ I'm currently a solo game developer, and the game I'm working on right now is Dr
 
 <p style="text-align:center">
 Where do I begin? I'm not really sure what you'd want to know, so I'll just say some stuff, and maybe you'll
-find it interesting
+find it interesting.
 </p>
 <p style="text-align:center">
 I graduated with a computer science degree in 2021, and then worked in cyber security for a bit.
