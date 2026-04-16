@@ -21,8 +21,8 @@ author: Vogy Bear
 
 navbar-links:
   About:
-  -Dreadwinter: "aboutdreadwinter"
-  -Vogy Bear: "aboutme"
+    -Dreadwinter: "aboutdreadwinter"
+    -Vogy Bear: "aboutme"
   Blog: "/blog"
   FAQ: "faq"
   Press Kit: "https://impress.games/press-kit/vogy-bear/dreadwinter"
