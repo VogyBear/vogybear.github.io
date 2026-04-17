@@ -48,6 +48,7 @@ For Dreadwinter at least, here's what I can do:
   <li>Produce questionable quality music and sound.</li>
   <li>The occasional marketing and social media</li>
   <li>Have an incredibly poor sleep schedule</li>
+</ul>
 </p>
 
 <p style="text-align:center">
