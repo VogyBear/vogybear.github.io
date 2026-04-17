@@ -40,7 +40,7 @@ ___
 I don't know why I added this section, maybe it's for potential employers, maybe it's just to flex my meager skills, who can say?
 </p>
 
-c
+<p style="text-align:center">
 For Dreadwinter at least, here's what I can do:
 <ul>
   <li>Programming in C# using the Godot Engine. I also use GDScript from time to time.</li>
