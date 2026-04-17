@@ -47,8 +47,8 @@ For Dreadwinter at least, here's what I can do:
   </li>
   <li>Draw pixel art. Some say it's good, haters say it's bad, but they would, otherwise they wouldn't be haters</li>
   <li>Produce questionable quality music and sound.</li>
-  <li>The occasional marketing to my 10 followers</li>
-  <li>Have an incredibly poor sleep schedule</li>
+  <li>The occasional marketing to my 10 followers.</li>
+  <li>Have an incredibly poor sleep schedule.</li>
 </ul>
 </p>
 
