@@ -15,19 +15,20 @@ ___
 ![The Dreadwinter Cafe!](/assets/img/screenshots/cafe-outside-2026.PNG)
 
 <p><center>
-Dreadwinter is the name of the cafe, formed of a combination of the names of its owners, Dread and Winter.<br>
-Dread is a retired knight, who opened the cafe as a relaxing business venture.<br>
-Winter is one of the few remaining Witches, who at one point in time ruled the world.<br>
+Dreadwinter is the name of the cafe, formed of a combination of the names of its owners, Dread and Winter.<br> <br>
+Dread is a retired knight, who opened the cafe as a relaxing business venture.<br> <br>
+Winter is one of the few remaining Witches, who at one point in time ruled the world.<br> <br> 
 Due to a combination of their dark pasts, some misunderstandings, and an ineptitude for brewing coffee, Dreadwinter finds itself eternally in the red. With your help, maybe things will turn around!
 </center></p>
 
 <h1><center>Features</center></h1>
 ___
+
 <ul>
-    <li>Play your way - Master your craft or maximise profits, or both!</li>
-    <li>Day and night shifts - Serve ordinary humans during the day, and the supernatural at night</li>
-    <li>Multiple storylines - The direction of the story will depend on how you play</li>
-    <li>Build your community - Get to know your regulars, and they will in turn help you out!</li>
-    <li>Become an adventurer - Explore the world and engage in turn-based combat using magical cards</li>
+    <li><strong>Play your way</strong> - Master your craft or maximise profits, or both!</li>
+    <li><strong>Day and night shifts</strong> - Serve ordinary humans during the day, and the supernatural at night</li>
+    <li><strong>Multiple storylines</strong> - The direction of the story will depend on how you play</li>
+    <li><strong>Build your community</strong> - Get to know your regulars, and they will in turn help you out!</li>
+    <li><strong>Become an adventurer</strong> - Explore the world and engage in turn-based combat using magical cards</li>
 </ul>
 
