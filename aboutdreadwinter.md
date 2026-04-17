@@ -3,6 +3,7 @@ layout: page
 title: About Dreadwinter
 ---
 
+
 <h1><center>Overview</center></h1>
 ___
 
@@ -23,11 +24,13 @@ ___
 <h1><center>Features</center></h1>
 ___
 
-<ul style="text-align:center">
+<div class="container">
+<ul class="myUL">
     <li><strong>Play your way</strong> - Master your craft or maximise profits, or both!</li>
     <li><strong>Day and night shifts</strong> - Serve ordinary humans during the day, and the supernatural at night</li>
     <li><strong>Multiple storylines</strong> - The direction of the story will depend on how you play</li>
     <li><strong>Build your community</strong> - Get to know your regulars, and they will in turn help you out!</li>
     <li><strong>Become an adventurer</strong> - Explore the world and engage in turn-based combat using magical cards</li>
 </ul>
+</div>
 

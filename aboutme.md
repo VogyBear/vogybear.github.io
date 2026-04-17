@@ -42,7 +42,9 @@ I don't know why I added this section, maybe it's for potential employers, maybe
 
 <p style="text-align:center">
 For Dreadwinter at least, here's what I can do:
-<ul style="text-align:center">
+</p>
+<div class="container">
+<ul class="myUL">
   <li>Programming in C#, using the Godot Engine. I also use GDScript from time to time, but I am a C# boy at heart.
   </li>
   <li>Draw pixel art. Some say it's good, haters say it's bad, but they would, otherwise they wouldn't be haters</li>
@@ -50,7 +52,7 @@ For Dreadwinter at least, here's what I can do:
   <li>The occasional marketing to my 10 followers.</li>
   <li>Have an incredibly poor sleep schedule.</li>
 </ul>
-</p>
+</div>
 
 <p style="text-align:center">
   <img class="contain" src="/assets/img/dj-helios.jpg">
@@ -66,7 +68,9 @@ These are mostly to do with gaming, so you can ignore this if you're not interes
 
 <p style="text-align:center">
 My favourite games are (in no particular order):
-<ul style="text-align:center">
+</p>
+<div class="container">
+<ul class="myUL">
   <li>Outer Wilds</li>
   <li>Divinity: Original Sin 2</li>
   <li>Kingdom Hearts 358/2 Days</li>
@@ -74,7 +78,8 @@ My favourite games are (in no particular order):
   <li>Nier: Automata</li>
   <li>Umamusume: Pretty Derby</li>
 </ul>
-</p>
+</div>
+
 
 <p style="text-align:center">
   <img class="contain" src="/assets/img/DH_Ballroom.webp" width="300" height="560"><br>
