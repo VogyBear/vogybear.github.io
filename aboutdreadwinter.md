@@ -14,7 +14,7 @@ ___
 
 ![The Dreadwinter Cafe!](/assets/img/screenshots/cafe-outside-2026.PNG)
 
-<p><center>Dreadwinter is the name of the cafe, formed of a combination of the names of its owners, Dread and Winter.</p>
+<p><center>Dreadwinter is the name of the cafe, formed of a combination of the names of its owners, Dread and Winter.</center></p>
 <p><center>Dread is a retired knight, who opened the cafe as a relaxing business venture.</center></p>
 <p><center>Winter is one of the few remaining Witches, who at one point in time ruled the world.</center></p>
 <p><center>Due to a combination of their dark pasts, some misunderstandings, and an ineptitude for brewing coffee, Dreadwinter finds itself eternally in the red. With your help, maybe things will turn around!
