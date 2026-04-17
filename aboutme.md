@@ -30,7 +30,7 @@ Then I was unemployed, then I worked in IT for a bit, then back to unemployed. T
 At some point during the first period of unemployment I started working on Dreadwinter, and eventually I figured that rather than try to work on my game and a full-time job, and half-ass both, it would be better to focus all my effort on one. I like making games, so the choice was obvious!
 </p>
 <p style="text-align:center">
-This takes us to today, where I am still working on Dreadwinter!
+This takes us to today, where I am still working on Dreadwinter! One day it will release, and then I will work on another game!
 </p>
 
 <h3><center>My Skills</center></h3>
@@ -44,9 +44,9 @@ I don't know why I added this section, maybe it's for potential employers, maybe
 For Dreadwinter at least, here's what I can do:
 <ul>
   <li>Programming in C# using the Godot Engine. I also use GDScript from time to time.</li>
-  <li>Draw pixel art.</li>
+  <li>Draw pixel art. Some say it's good, haters say it's bad, but they would, otherwise they wouldn't be haters</li>
   <li>Produce questionable quality music and sound.</li>
-  <li>The occasional marketing and social media</li>
+  <li>The occasional marketing to my 10 followers</li>
   <li>Have an incredibly poor sleep schedule</li>
 </ul>
 </p>
