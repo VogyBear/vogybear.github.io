@@ -53,6 +53,6 @@ For Dreadwinter at least, here's what I can do:
 </p>
 
 <p style="text-align:center">
-  How I imagine myself producing music
   <img class="contain" src="/assets/img/dj-helios.jpg">
+  How I imagine myself producing music
 </p>
