@@ -66,14 +66,14 @@ These are mostly to do with gaming, so you can ignore this if you're not interes
 
 <p style="text-align:center">
 My favourite games are (in no particular order):
-<center><ul>
+<ul>
   <li>Outer Wilds</li>
   <li>Divinity: Original Sin 2</li>
   <li>Kingdom Hearts 358/2 Days</li>
   <li>Dreadwinter (#Ad)</li>
   <li>Nier: Automata</li>
   <li>Umamusume: Pretty Derby</li>
-</ul></center>
+</ul>
 </p>
 
 <p style="text-align:center">
