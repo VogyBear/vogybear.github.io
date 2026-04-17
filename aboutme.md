@@ -43,7 +43,8 @@ I don't know why I added this section, maybe it's for potential employers, maybe
 <p style="text-align:center">
 For Dreadwinter at least, here's what I can do:
 <ul>
-  <li>Programming in C# using the Godot Engine. I also use GDScript from time to time.</li>
+  <li>Programming in C#, using the Godot Engine. I also use GDScript from time to time, but I am a C# boy at heart.
+  </li>
   <li>Draw pixel art. Some say it's good, haters say it's bad, but they would, otherwise they wouldn't be haters</li>
   <li>Produce questionable quality music and sound.</li>
   <li>The occasional marketing to my 10 followers</li>
