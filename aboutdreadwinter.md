@@ -23,7 +23,7 @@ ___
 <h1><center>Features</center></h1>
 ___
 
-<ul>
+<ul style="text-align:center">
     <li><strong>Play your way</strong> - Master your craft or maximise profits, or both!</li>
     <li><strong>Day and night shifts</strong> - Serve ordinary humans during the day, and the supernatural at night</li>
     <li><strong>Multiple storylines</strong> - The direction of the story will depend on how you play</li>

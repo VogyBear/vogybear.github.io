@@ -42,7 +42,7 @@ I don't know why I added this section, maybe it's for potential employers, maybe
 
 <p style="text-align:center">
 For Dreadwinter at least, here's what I can do:
-<ul>
+<ul style="text-align:center">
   <li>Programming in C#, using the Godot Engine. I also use GDScript from time to time, but I am a C# boy at heart.
   </li>
   <li>Draw pixel art. Some say it's good, haters say it's bad, but they would, otherwise they wouldn't be haters</li>
@@ -66,7 +66,7 @@ These are mostly to do with gaming, so you can ignore this if you're not interes
 
 <p style="text-align:center">
 My favourite games are (in no particular order):
-<ul>
+<ul style="text-align:center">
   <li>Outer Wilds</li>
   <li>Divinity: Original Sin 2</li>
   <li>Kingdom Hearts 358/2 Days</li>
