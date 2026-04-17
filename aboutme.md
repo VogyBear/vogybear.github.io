@@ -10,7 +10,7 @@ subtitle: Not really a bear
 </p>
 
 <p style="text-align:center">
-Hello, I'm Alex, and I also go by Vogy Bear! (it's pronounced in the same way as Yogi Bear)
+Hello, I'm Alex, and I also go by Vogy Bear! (it's pronounced in the same way as Yogi Bear)<br>
 
 I'm currently a solo game developer, and the game I'm working on right now is Dreadwinter.
 </p>
@@ -55,4 +55,40 @@ For Dreadwinter at least, here's what I can do:
 <p style="text-align:center">
   <img class="contain" src="/assets/img/dj-helios.jpg">
   How I imagine myself producing music
+</p>
+
+<h3><center>Random Facts</center></h3>
+___
+
+<p style="text-align:center">
+These are mostly to do with gaming, so you can ignore this if you're not interested (but then why are you here?)
+</p>
+
+<p style="text-align:center">
+My favourite games are (in no particular order):
+<ul>
+  <li>Outer Wilds</li>
+  <li>Divinity: Original Sin 2</li>
+  <li>Kingdom Hearts 358/2 Days</li>
+  <li>Dreadwinter (#Ad)</li>
+  <li>Nier: Automata</li>
+  <li>Umamusume: Pretty Derby</li>
+</ul>
+</p>
+
+<p style="text-align:center">
+  <img class="contain" src="/assets/img/DH_Ballroom.webp">
+  Waiting for Ballroom Daitaku Helios
+</p>
+
+<p style="text-align:center">
+The first cozy game I ever played was Rune Factory 1, and the earliest game I can remember playing is Jet Set Radio Future, when I was around the age of 4 (I only vaguely remember this, so the age could be off).
+</p>
+
+<p style="text-align:center">
+I studied computer science for 7 years, and the most important lesson I ever learned was when my driving instructor told me "Don't overcomplicate your life", which was to do with gear changes, but it seemed applicable to programming as well.
+</p>
+
+<p style="text-align:center">
+My motto is "live life at your own pace". At least, that's what I want it to be.
 </p>
