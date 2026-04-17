@@ -66,18 +66,18 @@ These are mostly to do with gaming, so you can ignore this if you're not interes
 
 <p style="text-align:center">
 My favourite games are (in no particular order):
-<ul>
+<center><ul>
   <li>Outer Wilds</li>
   <li>Divinity: Original Sin 2</li>
   <li>Kingdom Hearts 358/2 Days</li>
   <li>Dreadwinter (#Ad)</li>
   <li>Nier: Automata</li>
   <li>Umamusume: Pretty Derby</li>
-</ul>
+</ul></center>
 </p>
 
 <p style="text-align:center">
-  <img class="contain" src="/assets/img/DH_Ballroom.webp">
+  <img class="contain" src="/assets/img/DH_Ballroom.webp" width="300" height="560"><br>
   Waiting for Ballroom Daitaku Helios
 </p>
 
