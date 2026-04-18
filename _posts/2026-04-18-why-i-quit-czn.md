@@ -17,7 +17,7 @@ I was looking at a reddit post about changes that were being made to Chaos Zero 
 
 # What is Chaos Zero Nightmare?
 
-Chaos Zero Nightmare(CZN) is a roguelike gacha game for mobile and PC, developed by Smilegate, a korean developer. It's a card-based, roguelike dungeon crawler, similar to [Slay the Spire](https://store.steampowered.com/app/646570/Slay_the_Spire/), with a lot of extra mechanics blended in.
+Chaos Zero Nightmare(CZN) is a rogue-like gacha game for mobile and PC, developed by Smilegate, a korean developer. It's a card-based, rogue-like dungeon crawler, similar to [Slay the Spire](https://store.steampowered.com/app/646570/Slay_the_Spire/), with a lot of extra mechanics blended in.
 
 <img src="/assets/img/Posts/czn-combat.webp" width="750" height="346">
 Combat in Chaos Zero Nightmare
@@ -45,7 +45,7 @@ Going back to Chaos Mode, you only need to do 1-2 runs a week to get all of the 
 
 There's nothing wrong with a dungeon run taking an hour or two, when it's fun, so why is it that I stopped finding Chaos mode fun?
 
-# Gacha gamers vs roguelike gamers
+# Gacha gamers vs rogue-like gamers
 
 The 1-2 runs requirement is just for getting the weekly rewards, if you want to be completing the endgame modes, and/or you like having good builds on your characters, you'll want to do more than 1-2 runs. When you do endgame modes (and most battles outside of Chaos Mode), you can use the decks and equipment that you got from a certain run, so you're incentivised to do multiple runs to get the best possible build, since it's mostly down to luck.
 
