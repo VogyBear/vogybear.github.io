@@ -32,21 +32,27 @@ If you've played Slay the Spire, and you've played a gacha game before, you can 
 
 Just for reference, I currently play a number of gacha games. My current rotation is Genshin Impact, Honkai:Star Rail, Zenless Zone Zero, Wuthering Waves, Arknights:Endfield, and Umamusume:Pretty Derby. You might wonder how I have time to work on Dreadwinter, but gacha games generally don't require much of your time, which might have something to do with why I stopped playing CZN.
 
-I played for a few months in early 2026 (this would be most of season 2), and I do think that the game itself is quite fun. The extra mechanics, like ego skills, stress levels, and how team compositions adds to the gameplay made the experience quite unique. The dungeon crawler was challenging, but enjoyable, which kept me coming back for a while, but eventually I lost the desire to spend my time on it, which killed the main draw of the game for me.
+I played for a few months in early 2026 (this would be most of season 2), and I do think that the game itself is quite fun. The extra mechanics, like ego skills, stress levels, and how team compositions adds to the combat, made the experience quite unique. The dungeon crawler was challenging, but enjoyable, which kept me coming back for a while, but eventually I lost the desire to spend my time on it, which killed the main draw of the game for me.
 
-A chaos run usually goes on for around an hour, which is really long compared to how much time a gacha player is accustomed to. Gacha games, by design, are intended to be played by working adults who don't have much free time, and want something that they can play on their commute to work, or during breaks, so maybe 10-15 minutes at most. You can see that being required to play for an hour, even if you can pause in-between, is quite a commitment, which goes against the casual gameplay that gacha players want.
+<img src="/assets/img/Posts/czn-chaos-mode.PNG" width="960" height="540">
+Chaos mode in CZN
+
+A chaos run usually goes on for around an hour, which is really long compared to how much time a gacha player is accustomed to. Gacha games, by design, are intended to be played by working adults who don't have much free time, and want something that they can play on their commute to work, or during breaks, so the daily loop is maybe 10-15 minutes at most. You can see that being required to play for an hour, even if you can pause in-between, is quite a commitment, which goes against the casual gameplay that gacha players want.
 
 I will say that the dailies, in which you complete some tasks to get a small amount of rewards each day, is very fast, only requiring a few minutes each day. Despite that, it did feel like a chore, and I would put off doing it until I had nothing better to do. When doing even the bare minium feels like a chore, that's usually a sign to stop playing. I'll go into why I felt this way in a bit, but let's go back to the core issue.
 
-Going back to Chaos Mode, you only need to do 1-2 runs a week to get all of the weekly rewards, but that's still 1-2 hours of your time. That's not really that long, but it is time that could be spent doing something else, like you could play a football match in that time. If you look at the Divergent Universe Mode in HSR, or Hollow Zero in ZZZ, they're both roguelike dungeon crawler modes in those games, but they take around 15 minutes to complete each week, so even if you don't enjoy it that much, it's hardly that much time out of your week.
+Going back to Chaos Mode, you only need to do 1-2 runs a week to get all of the weekly rewards, but that's still 1-2 hours of your time. That's not really that long, but it is time that could be spent doing something else, like you could play a football match in that time. If you look at the Divergent Universe Mode in HSR, or Hollow Zero in ZZZ, they're both rogue-like dungeon crawler modes in those games, but they take around 15 minutes to complete each week, so even if you don't enjoy it that much, it's hardly that much time out of your week.
 
-There's nothing wrong with a dungeon run taking an hour or two, when it's fun, so why is it that I stopped finding CZN fun?
+There's nothing wrong with a dungeon run taking an hour or two, when it's fun, so why is it that I stopped finding Chaos mode fun?
 
 # Gacha gamers vs roguelike gamers
 
 The 1-2 runs requirement is just for getting the weekly rewards, if you want to be completing the endgame modes, and/or you like having good builds on your characters, you'll want to do more than 1-2 runs. When you do endgame modes (and most battles outside of Chaos Mode), you can use the decks and equipment that you got from a certain run, so you're incentivised to do multiple runs to get the best possible build, since it's mostly down to luck.
 
 If you're a casual player that's not interested in this, you don't need to do it. A lot of gacha gamers are casual players, that play to gamble for characters and maybe view the story, but personally I don't think the story is that great, or good, and the characters are... yeah...
+
+<img src="/assets/img/Posts/czn-card-design.PNG">
+The card designs are cool, though
 
 So if you're not interested in building for endgame, the characters don't make you want to get them, and the story isn't interesting, what's left?
 
@@ -58,7 +64,7 @@ With a game like Slay the Spire, you have an ascension mode, which increases the
 
 The problem with CZN is that it's also a gacha game, which goes against this philosophy of game design. The core aspect of a gacha game is obtaining new characters and weapons by gambling (in the same way as getting weapon skins through lootboxes), which is how they make their money. The premium characters that you pull for need to be powerful, and make your life easier, in order to incentivise you to get them, and ones that come after need to be better than that, which is known as powercreep. They could also incentivise players to pull because they're likeable, have good designs, and are well-written characters, but I personally would not say I have experienced that in this game.
 
-
+<img src="/assets/img/Posts/czn-5stars.PNG">
 
 Once I got those premium characters, the challenge of Chaos runs just disappeared. I didn't need to think at all while doing a run, and it didn't matter what I did, the characters pretty much played themselves at that point. You obviously can do things to add the challenge back in, and CZN does have higher difficulties, but you reach a point where completing a run is an expectation, and all that matters is what cards you have at the end of it. At this point that hour spent on a run is only really bearable if I have a video playing on my other monitor. 
 
@@ -71,6 +77,8 @@ So I stopped enjoying Chaos mode, and the only reason I would play it would be t
 Generally, a decent chunk of pull income comes from clearing the endgame mode, which means you have more to gamble with for the next character. The thing is, CZN is quite generous with its rewards, so I didn't really feel a need to be doing the endgame, which gave me less of a reason to do a Chaos run. 
 
 You'd think that this is a good thing, since it means that you're less likely to pull out the credit card, but in a strange twist, this made me want to play less. I did get lucky with my pulls, which may have played a part in this, but I never really felt that I needed to grind out the game for currency, so I was just building up my income without doing much. 
+
+<img src="/assets/img/Posts/czn-dailies.PNG" width="936" height="456">
 
 If there were characters I wanted to pull for, I would be happy to hoover up any rewards I can get, but I'd already gotten enough good characters to make my life easy, and there weren't any characters that I was drawn to, so I was building up my pull count for nothing. Eventually, I'm just logging in to do my dailies so I don't miss out on the pull income, but really, did I care about that? I decided to not login for a day, and it didn't even cross my mind that I'd missed my dailies, and so I quit for good. 
 
