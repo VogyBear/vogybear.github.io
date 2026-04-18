@@ -32,7 +32,7 @@ If you've played Slay the Spire, and you've played a gacha game before, you can 
 
 Just for reference, I currently play a number of gacha games. My current rotation is Genshin Impact, Honkai:Star Rail, Zenless Zone Zero, Wuthering Waves, Arknights:Endfield, and Umamusume:Pretty Derby. You might wonder how I have time to work on Dreadwinter, but gacha games generally don't require much of your time, which might have something to do with why I stopped playing CZN.
 
-I played for a few months in early 2026 (this would be most of season 2), and I do think that the game itself is quite fun. The extra mechanics, like ego skills, stress levels, and how team compositions adds to the combat, made the experience quite unique. The dungeon crawler was challenging, but enjoyable, which kept me coming back for a while, but eventually I lost the desire to spend my time on it, which killed the main draw of the game for me.
+I played for a few months in early 2026 (this would be most of season 2), and I do think that the game itself is quite fun. The extra mechanics, like ego skills, stress levels, and how team composition adds to the combat, made the experience quite unique. The dungeon crawler was challenging, but enjoyable, which kept me coming back for a while, but eventually I lost the desire to spend my time on it, which killed the main draw of the game for me.
 
 <img src="/assets/img/Posts/czn-chaos-mode.PNG" width="960" height="540">
 Chaos mode in CZN
