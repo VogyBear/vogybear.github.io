@@ -8,6 +8,10 @@ share-img: /assets/img/Posts/Share img.png
 tags: [Gaming]
 author: Vogy Bear
 ---
+<head>
+<meta name="robots" content="noindex">
+</head>
+
 
 # Introduction
 
